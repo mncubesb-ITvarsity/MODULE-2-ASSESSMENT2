@@ -41,7 +41,7 @@
 #tabs-top a{
     float   : left;
     display : block;
-    width   : 25%;
+    width   : 33%;
     height  :35px;
     font-weight : 600;
     color       : white;
@@ -64,7 +64,7 @@
 #tabs-bottom a{
    float : left;
    display : block;
-   width : 25%;
+   width : 33%;
    height : 35px;
    font-weight : 700;
    color       : white;
@@ -152,9 +152,10 @@ a.info-box{
 }
 .info-box-1 img{
     height : 770px;
-    padding-bottom: 10px;
+    padding-bottom: 20px;
     float  : left;
     width: 100%;
+    image-resolution: 100%;
 }
 .info-box-2 img{
     height : 770px;
