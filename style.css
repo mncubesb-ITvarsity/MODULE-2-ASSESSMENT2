@@ -77,6 +77,9 @@
 
 #main-home{
     margin-top: 120px;
+    padding-top: 24px;
+    background-color: lavender;
+    
 }
 
 
@@ -196,7 +199,7 @@ a.info-box{
     text-align: center;
 }
 table{
-    padding-bottom: 26px;
+    padding-top: 50px;
 }
 h2
 {
@@ -226,4 +229,21 @@ h1{
     
     text-align: center;
     background-color: dimgrey;
+}
+p{
+    text-align: center;
+    padding-bottom: 20px;
+}
+td{
+    background-color: dimgray;
+    padding-bottom: 30px;
+}
+Button{
+    background-color: dodgerblue;
+    width   : 30%;
+    display : block;
+    margin  : auto;
+    margin-top : 12px;
+    padding    : 10px;
+    text-decoration: none;
 }
