@@ -2,6 +2,7 @@ body{
     padding    : 0;
     margin     : 0;
     font-family: Helvetica;
+    
 }
 
 #header{
@@ -44,7 +45,10 @@ body{
 }
 #main-home{
     margin-top: 120px;
+    padding-left: 40%;
+    
 }
+
 #tabs-bottom{
     position : fixed;
     bottom   : 0;
@@ -71,6 +75,7 @@ body{
     margin-top: 119px;
     background: url('images/home\ image.jpg');
     background-repeat: repeat-y;
+    
 }
 
 #content{
@@ -144,9 +149,11 @@ h1.info-box-weather-icon{
 }
 table{
     width: 100%;
+    
 }
 td{
     border-top: 1px solid #131313;
+ 
 }
 input{
     width: 100%;
@@ -172,4 +179,8 @@ textarea{
     font-weight : 600;
     margin : 12px 0;
     padding : 8px 0;
+}
+h2,
+p{
+    text-align: center;
 }
