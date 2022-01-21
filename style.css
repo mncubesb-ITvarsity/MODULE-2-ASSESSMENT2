@@ -184,6 +184,7 @@ h1{
     text-align: center;
     background-color: #929292;
 }
-main img{
+#main-home{
     align-items: center;
+    background-color: gainsboro;
 }
